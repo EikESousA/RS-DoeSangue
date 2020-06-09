@@ -19,7 +19,7 @@
     <a href="#-prévia-da-aplicação"> 🔥 Prévia da Aplicação </a> |    
     <a href="#-deploy-da-aplicação"> 🔨 Deploy da Aplicação </a> |
     <a href="#-executando-o-projeto"> ⚡ Executando o Projeto </a> |
-    <a href="#-como-contribuir?"> 🤔 Como Contribuir? </a> |    
+    <a href="#-como-contribuir?"> 🤔 Como Contribuir? </a>   
   </p>
 </div>
 
