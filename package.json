@@ -1,5 +1,5 @@
 {
-  "name": "MD03-DoeSangue",
+  "name": "RS-DoeSangue",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EikESousA/MD03-DoeSangue.git"
+    "url": "git+https://github.com/EikESousA/RS-DoeSangue.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EikESousA/MD03-DoeSangue/issues"
+    "url": "https://github.com/EikESousA/RS-DoeSangue/issues"
   },
-  "homepage": "https://github.com/EikESousA/MD03-DoeSangue#readme",
+  "homepage": "https://github.com/EikESousA/RS-DoeSangue#readme",
   "dependencies": {
     "express": "^4.17.1",
     "minimist": "^1.2.3",
