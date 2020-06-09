@@ -103,3 +103,7 @@ $ git commit -m 'feature/bugfix: minhas alterações'
 # Faça o push para a sua branch
 $ git push origin minha-branch
 ```
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
