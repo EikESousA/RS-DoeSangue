@@ -1,5 +1,5 @@
 <div align="center" style="margin: 50px;">
-  <img alt="logo ecoleta" src="./img/logo.svg" width="auto" heigth="auto"/>
+  <img alt="logo ecoleta" src="./img/logo.png" width="auto" heigth="auto"/>
 </div>
 
 <div align="center">
