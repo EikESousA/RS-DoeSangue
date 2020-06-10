@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> Maratona Dev 03 - DoeSangue - 18/02/2020 - 20/02/2020 </h1>
+  <h1> Maratona Dev 03 - DoeSangue - 18/02/2020 - 22/02/2020 </h1>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -30,7 +30,7 @@
 <p> A aplicação foi criada através do curso realizado pela 
   <img alt="logo rocketseat" src="./img/rocketseat.png" width="auto" heigth="auto"/>
   <a href="https://rocketseat.com.br/"> Rocketseat </a>
-  (Maratona Dev - 03), onde esse curso foi realizado no dia <strong> 18/02/2020 </strong> até o dia <strong> 20/02/2020 </strong>. 
+  (Maratona Dev - 03), onde esse curso foi realizado no dia <strong> 18/02/2020 </strong> até o dia <strong> 22/02/2020 </strong>. 
 </p> 
 
 ## 🚀 Tecnologias Utilizadas
